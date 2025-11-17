@@ -413,6 +413,14 @@
             </form>
         </div>
     </div>
+    <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
+<script type="module">
+	import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
+
+	createChat({
+		webhookUrl: 'http://localhost:5678/webhook/0e039dad-fce1-4267-a939-be54d6fd7fe8/chat'
+	});
+</script>
 
     <script src="script.js"></script>
 </body>
