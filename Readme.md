@@ -4,6 +4,8 @@ A comprehensive, feature-rich budget tracking application built with modern web 
 
 ![Budget Tracker Preview](https://github.com/manas-shukla-101/Advance-budget-tracker/blob/586f94fb33efd801ef4376a0959b176020731f77/Screenshot_20250824-143434.png)
 
+---
+
 ## ✨ Features
 
 ### 🔐 User Authentication
@@ -41,9 +43,11 @@ A comprehensive, feature-rich budget tracking application built with modern web 
 - **Smooth Animations**: Fluid transitions and micro-interactions
 - **Professional Design**: Clean, modern interface with premium feel
 
+---
+
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 budget-tracker/
 ├── index.html          # Main HTML structure and layout
 ├── styles.css          # Custom CSS styles and animations
@@ -52,13 +56,15 @@ budget-tracker/
 └── assets/             # (Optional) Additional assets
     ├── icons/          # Custom icons
     └── images/         # Screenshots and images
-\`\`\`
+```
 
 ### 📁 File Descriptions
 
 - **`index.html`**: Contains the complete HTML structure including authentication forms, dashboard layout, and all UI components
 - **`styles.css`**: Custom CSS with advanced styling, animations, gradients, and responsive design rules
 - **`script.js`**: Core application logic including user management, data persistence, chart rendering, and all interactive features
+
+---
 
 ## 🚀 Installation & Setup
 
@@ -69,15 +75,15 @@ budget-tracker/
 ### Quick Start
 
 1. **Clone or Download** the project files
-   \`\`\`bash
+   ```bash
    git clone <repository-url>
    cd budget-tracker
-   \`\`\`
+   ```
 
 2. **Open in Browser**
    - **Option A**: Double-click `index.html` to open directly
    - **Option B**: Use a local server (recommended)
-     \`\`\`bash
+     ```bash
      # Using Python
      python -m http.server 8000
      
@@ -86,11 +92,13 @@ budget-tracker/
      
      # Using PHP
      php -S localhost:8000
-     \`\`\`
+     ```
 
 3. **Access the Application**
    - Direct: `file:///path/to/index.html`
    - Server: `http://localhost:8000`
+
+---
 
 ## 📖 Usage Workflow
 
@@ -123,6 +131,8 @@ budget-tracker/
 - Use exported data for external analysis or backup
 - Import data into spreadsheet applications
 
+---
+
 ## 🛠️ Technical Details
 
 ### Technologies Used
@@ -151,6 +161,8 @@ budget-tracker/
 - XSS protection measures
 - Secure local storage implementation
 
+---
+
 ## 🎯 Key Features Explained
 
 ### Financial Goal Tracking
@@ -172,12 +184,15 @@ Export your complete financial history as CSV files for:
 - External analysis tools
 - Data backup and migration
 
+---
+
 ## 👨‍💻 Creator Details
 
-**Developer**: v0 AI Assistant  
+**Developer**: Manas Shukla
 **Project Type**: Open Source Web Application  
-**Development Framework**: Vanilla JavaScript with Modern Web Standards  
+**Development Framework**: JavaScript with Modern Web Standards  
 **Design Philosophy**: User-centric, Performance-focused, Accessibility-first  
+
 
 ### 📧 Contact & Support
 
@@ -185,15 +200,17 @@ Export your complete financial history as CSV files for:
 - **Feature Requests**: Submit enhancement requests via GitHub issues
 - **General Questions**: Contact through the repository discussions
 
+
 ### 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+I welcome contributions! Here's how you can help:
 
 1. **Fork** the repository
 2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
 3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
+
 
 ### 📋 Development Guidelines
 
@@ -203,9 +220,13 @@ We welcome contributions! Here's how you can help:
 - Ensure responsive design compatibility
 - Update documentation for new features
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -213,6 +234,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for utility-first styling
 - **Lucide Icons** for clean, modern icons
 - **Modern Web Standards** for robust functionality
+
+---
 
 ## 📱 Screenshots
 
@@ -230,6 +253,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ using modern web technologies(HTML,CSS,JS)**
+_Built with ❤️ by Manas Shukla using modern web technologies(HTML,CSS,JS)_
 
 *Last Updated: August 2025*
