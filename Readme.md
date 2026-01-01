@@ -76,7 +76,7 @@ budget-tracker/
 
 1. **Clone or Download** the project files
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/manas-shukla-101/Advance-Budget-Tracker.git"
    cd budget-tracker
    ```
 
