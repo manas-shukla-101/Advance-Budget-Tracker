@@ -252,7 +252,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Goals](https://github.com/manas-shukla-101/Advance-budget-tracker/blob/3b011b42b43add200d007f2e65d1b3508e4a10a3/Screenshot_20250824-143614%20(2).png)
 
 ---
+---
+---
+**Made with ❤️ by Manas Shukla**
 
-_Built with ❤️ by Manas Shukla using modern web technologies(HTML,CSS,JS)_
+---
 
-*Last Updated: August 2025*
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://manas-shukla-portfolio.framer.website) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com) 
+
+---
